@@ -6,7 +6,6 @@
 
 ## Code 401 - Advanced Software Development
 
-
 **To utilize bold text use keyboard shortcut CTRL + B (WINDOWS)**
 
 *Italicized text can be used with keyboard shortcut CTRL + I (WINDOWS)*
