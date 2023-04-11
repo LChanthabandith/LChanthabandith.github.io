@@ -24,8 +24,11 @@ Attributes contain extra information about the element that won't appear in the 
 An attribute should have:
 
 -A space between it and the element name. (For an element with more than one attribute, the attributes should be separated by spaces too.)
+
 -The attribute name, followed by an equal sign.
+
 -An attribute value, wrapped with opening and closing quote marks.
+
 [Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 # Describe the Anatomy of an HTMl element.
