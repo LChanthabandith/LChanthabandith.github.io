@@ -11,15 +11,15 @@
 ## How can you find images to add to a Website?
 All images found through the web can be saved to an _images folder_. Images folder: This folder will contain all the images that you use on your site. Create a folder called images, inside your test-site folder. [Images](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
-# How do you create a String vs a Number in JavaScript?
+## How do you create a String vs a Number in JavaScript?
 *String:* To signify that the value is a string, enclose it in single or double quote marks. _Example: let myVariable = 'Bob'_ [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 *Numbers:* Numbers don't have quotes around them. _Example: let myVariable = 10;_ [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-# What is a Variable and why are they important in JavaScript?
+## What is a Variable and why are they important in JavaScript?
 *Variables* are containers that store values. You start by declaring a variable with the _let_ keyword, followed by the _name_ you give to the variable. [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-# What is an HTML attribute?
+## What is an HTML attribute?
 Attributes contain extra information about the element that won't appear in the content.
 An attribute should have:
 - A space between it and the element name. (For an element with more than one attribute, the attributes should be separated by spaces too.)
@@ -30,7 +30,7 @@ An attribute should have:
 
 [Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
-# Describe the Anatomy of an HTML element.
+## Describe the Anatomy of an HTML element.
 The anatomy of HTML are its elements. The HTML element consist of:
 - *Doc Type* _<!DOCTYPE html>_
 
@@ -49,7 +49,7 @@ The anatomy of HTML are its elements. The HTML element consist of:
 
 *Section:* The _section_ HTML element represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it. [Section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
 
-# What Elements does a “typical” website include?
+## What Elements does a “typical” website include?
 A typical website should include:
 - Header
 
@@ -61,10 +61,10 @@ A typical website should include:
 
 - Footer
 
-# How does metadata influence Search Engine Optimization?
+## How does metadata influence Search Engine Optimization?
 Your HTML document will be indexed more effectively by search engines if its language is set (allowing it to appear correctly in language-specific results, for example), and it is useful to people with visual impairments using screen readers. [META](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
-# How is the <meta> HTML tag used when specifying metadata?
+## How is the <meta> HTML tag used when specifying metadata?
 Many _<meta>_ elements include name and content attributes:
 - _name_ specifies the type of meta element it is; what type of information it contains.
 
@@ -72,7 +72,7 @@ Many _<meta>_ elements include name and content attributes:
 
 [META](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
-# What is the first step to designing a Website?
+## What is the first step to designing a Website?
 Before creating a website, you want to ask yourself these questions:
 - What exactly do I want to accomplish?
 - How will a website help me reach my goals?
@@ -82,8 +82,8 @@ All of this is called *_project ideation_* and is a necessary first step.
 
 [Website Design](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)
 
-# What is the most important question to answer when designing a Website?
-  
+## What is the most important question to answer when designing a Website?
+
 *_What Exactly Do I Want To Accomplish?_* is the most important question to answer.
 
 # Why should you use an <h1> element over a <span> element to display a top level heading?
