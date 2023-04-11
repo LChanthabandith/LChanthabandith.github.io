@@ -129,10 +129,10 @@ Some different variations for adding *_JavaScript_* are:
 
 
 ## Things I want to know more about
-- Deeper knowledge on the functions of *_CSS, HTML, and JavaScript_*.
+- Deeper knowledge on the functions of **_CSS, HTML, and JavaScript_**.
 
-- Understanding the benefits of *_S.E.O._* in relations to advertisements.
+- Understanding the benefits of **_S.E.O._** in relations to advertisements.
 
-- More information on how we utilize *_meta_* elements.
+- More information on how we utilize **_meta_** elements.
 
-- Learning more about *_JavaScript_* and its application for web development.
+- Learning more about **_JavaScript_** and its application for web development.
