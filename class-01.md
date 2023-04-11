@@ -12,9 +12,12 @@
 All images found through the web can be saved to an _images folder_. Images folder: This folder will contain all the images that you use on your site. Create a folder called images, inside your test-site folder. [Images](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 # How do you create a String vs a Number in JavaScript?
+*String*, To signify that the value is a string, enclose it in single or double quote marks. _Example: let myVariable = 'Bob'_ [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
+*Numbers*, Numbers don't have quotes around them. _Example: let myVariable = 10;_ [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 # What is an HTML attribute?
+
 
 # Describe the Anatomy of an HTMl element.
 
