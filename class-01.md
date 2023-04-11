@@ -44,7 +44,7 @@ The anatomy of HTML are its elements. The HTML element consist of:
 
 - *Body* _<body></body>_
 
-# What is the Difference between <article> and <section> element tags?
+## What is the Difference between <article> and <section> element tags?
 *Article:* The _article_ HTML element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable. [Article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
 
 *Section:* The _section_ HTML element represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it. [Section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
@@ -86,13 +86,13 @@ All of this is called *_project ideation_* and is a necessary first step.
 
 **_What Exactly Do I Want To Accomplish?_** is the most important question to answer.
 
-# Why should you use an <h1> element over a <span> element to display a top level heading?
+## Why should you use an <h1> element over a <span> element to display a top level heading?
 The *_h1_* element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page.
 A *_span_* element will render it to look like a top level heading, but it has no semantic value. It is therefore a good idea to use the right HTML element for the right job.
 HTML should be coded to represent the data that will be populated and not based on its default presentation styling.
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-# What are the benefits of using semantic tags in our HTML?
+## What are the benefits of using semantic tags in our HTML?
 Some of the benefits from writing semantic markup are as follows:
 - Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
 
@@ -106,7 +106,7 @@ Some of the benefits from writing semantic markup are as follows:
 
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-# Describe 2 things that require JavaScript in the Browser?
+## Describe 2 things that require JavaScript in the Browser?
 
 **_JavaScript_** is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc.
 
@@ -116,7 +116,7 @@ Some examples would be:
 - The Google Maps API and OpenStreetMap API allows you to embed custom maps into your website, and other such functionality.
 [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-# How can you add JavaScript to an HTML document?
+## How can you add JavaScript to an HTML document?
 
 **_JavaScript_** is applied to your HTML page in a similar manner to CSS. Whereas CSS uses <link> elements to apply external stylesheets and <style> elements to apply internal stylesheets to HTML, JavaScript only needs one friend in the world of HTML — the <script> element.
 
