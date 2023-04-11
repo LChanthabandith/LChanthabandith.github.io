@@ -46,9 +46,9 @@ The anatomy of HTML are its elements. The HTML element consist of:
 - *Body* _<body></body>_
 
 # What is the Difference between <article> and <section> element tags?
-*Article:* The_<article>_ HTML element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable. [Article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
+*Article:* The _article_ HTML element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable. [Article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
 
-*Section:* The_<section>_ HTML element represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it. [Section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
+*Section:* The _section_ HTML element represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it. [Section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
 
 # What Elements does a “typical” website include?
 A typical website should include:
