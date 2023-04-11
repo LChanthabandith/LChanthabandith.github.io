@@ -31,17 +31,52 @@ An attribute should have:
 
 [Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
-# Describe the Anatomy of an HTMl element.
+# Describe the Anatomy of an HTML element.
+The anatomy of HTML are its elements. The HTML element consist of:
+- *Doc Type* _<!DOCTYPE html>_
+
+- *HTML* _<html></html>_
+
+- *Head* _<head></head>_
+
+- *Meta* _<meta charset="utf-8">_
+
+- *Title* _<title></title>_
+
+- *Body* _<body></body>_
 
 # What is the Difference between <article> and <section> element tags?
+*Article:* The _<article>_ HTML element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable. [Article](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
+
+*Section:* The _<section>_ HTML element represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it. [Section](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
 
 # What Elements does a “typical” website include?
+A typical website should include:
+
+-Header
+
+-Navigation Bar
+
+-Main Content
+
+-Side Bar
+
+-Footer
 
 # How does metadata influence Search Engine Optimization?
+Your HTML document will be indexed more effectively by search engines if its language is set (allowing it to appear correctly in language-specific results, for example), and it is useful to people with visual impairments using screen readers. [META](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 # How is the <meta> HTML tag used when specifying metadata?
-  
+Many _<meta>_ elements include name and content attributes:
+
+- _name_ specifies the type of meta element it is; what type of information it contains.
+
+- _content_ specifies the actual meta content.
+
+[META](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+
 # What is the first step to designing a Website?
+
 
 # What is the most important question to answer when designing a Website?
   
