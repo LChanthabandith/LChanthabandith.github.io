@@ -66,7 +66,6 @@ Your HTML document will be indexed more effectively by search engines if its lan
 
 # How is the <meta> HTML tag used when specifying metadata?
 Many _<meta>_ elements include name and content attributes:
-
 - _name_ specifies the type of meta element it is; what type of information it contains.
 
 - _content_ specifies the actual meta content.
@@ -75,7 +74,6 @@ Many _<meta>_ elements include name and content attributes:
 
 # What is the first step to designing a Website?
 Before creating a website, you want to ask yourself these questions:
-
 - What exactly do I want to accomplish?
 - How will a website help me reach my goals?
 - What needs to be done, and in what order, to reach my goals?
@@ -96,16 +94,15 @@ HTML should be coded to represent the data that will be populated and not based 
 
 # What are the benefits of using semantic tags in our HTML?
 Some of the benefits from writing semantic markup are as follows:
+- Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
 
--Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+- Screen readers can use it as a signpost to help visually impaired users navigate a page
 
--Screen readers can use it as a signpost to help visually impaired users navigate a page
+- Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
 
--Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+- Suggests to the developer the type of data that will be populated
 
--Suggests to the developer the type of data that will be populated
-
--Semantic naming mirrors proper custom element/component naming
+- Semantic naming mirrors proper custom element/component naming
 
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
@@ -113,8 +110,8 @@ Some of the benefits from writing semantic markup are as follows:
 *_JavaScript_* is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc.
 
 Some examples would be:
-
 - The Twitter API allows you to do things like displaying your latest tweets on your website.
+
 - The Google Maps API and OpenStreetMap API allows you to embed custom maps into your website, and other such functionality.
 [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
@@ -122,8 +119,8 @@ Some examples would be:
 *_JavaScript_* is applied to your HTML page in a similar manner to CSS. Whereas CSS uses <link> elements to apply external stylesheets and <style> elements to apply internal stylesheets to HTML, JavaScript only needs one friend in the world of HTML — the <script> element.
 
 Some different variations for adding *_JavaScript_* are:
-
 - Internal JavaScript
+
 - External JavaScript
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript#internal_javascript)
