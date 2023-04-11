@@ -51,16 +51,15 @@ The anatomy of HTML are its elements. The HTML element consist of:
 
 # What Elements does a “typical” website include?
 A typical website should include:
+- Header
 
--Header
+- Navigation Bar
 
--Navigation Bar
+- Main Content
 
--Main Content
+- Side Bar
 
--Side Bar
-
--Footer
+- Footer
 
 # How does metadata influence Search Engine Optimization?
 Your HTML document will be indexed more effectively by search engines if its language is set (allowing it to appear correctly in language-specific results, for example), and it is useful to people with visual impairments using screen readers. [META](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
