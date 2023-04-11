@@ -76,16 +76,59 @@ Many _<meta>_ elements include name and content attributes:
 [META](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 # What is the first step to designing a Website?
+Before creating a website, you want to ask yourself these questions:
 
+- What exactly do I want to accomplish?
+- How will a website help me reach my goals?
+- What needs to be done, and in what order, to reach my goals?
+
+All of this is called *_project ideation_* and is a necessary first step.
+
+[Website Design](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)
 
 # What is the most important question to answer when designing a Website?
   
+*_What Exactly Do I Want To Accomplish?_* is the most important question to answer.
+
 # Why should you use an <h1> element over a <span> element to display a top level heading?
+The *_h1_* element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page.
+A *_span_* element will render it to look like a top level heading, but it has no semantic value. It is therefore a good idea to use the right HTML element for the right job.
+HTML should be coded to represent the data that will be populated and not based on its default presentation styling.
+[Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
 # What are the benefits of using semantic tags in our HTML?
-  
+Some of the benefits from writing semantic markup are as follows:
+
+-Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+
+-Screen readers can use it as a signpost to help visually impaired users navigate a page
+
+-Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+
+-Suggests to the developer the type of data that will be populated
+
+-Semantic naming mirrors proper custom element/component naming
+
+[Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
 # Describe 2 things that require JavaScript in the Browser?
+*_JavaScript_* is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc.
+
+Some examples would be:
+
+- The Twitter API allows you to do things like displaying your latest tweets on your website.
+- The Google Maps API and OpenStreetMap API allows you to embed custom maps into your website, and other such functionality.
+[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 # How can you add JavaScript to an HTML document?
-  
+*_JavaScript_* is applied to your HTML page in a similar manner to CSS. Whereas CSS uses <link> elements to apply external stylesheets and <style> elements to apply internal stylesheets to HTML, JavaScript only needs one friend in the world of HTML — the <script> element.
+
+Some different variations for adding *_JavaScript_* are:
+
+- Internal JavaScript
+- External JavaScript
+
+[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript#internal_javascript)
+
+
 ## Things I want to know more about
