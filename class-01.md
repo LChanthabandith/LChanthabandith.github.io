@@ -107,6 +107,7 @@ Some of the benefits from writing semantic markup are as follows:
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
 # Describe 2 things that require JavaScript in the Browser?
+
 *_JavaScript_* is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc.
 
 Some examples would be:
@@ -116,6 +117,7 @@ Some examples would be:
 [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 # How can you add JavaScript to an HTML document?
+
 *_JavaScript_* is applied to your HTML page in a similar manner to CSS. Whereas CSS uses <link> elements to apply external stylesheets and <style> elements to apply internal stylesheets to HTML, JavaScript only needs one friend in the world of HTML — the <script> element.
 
 Some different variations for adding *_JavaScript_* are:
