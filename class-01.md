@@ -84,7 +84,7 @@ All of this is called *_project ideation_* and is a necessary first step.
 
 ## What is the most important question to answer when designing a Website?
 
-*_What Exactly Do I Want To Accomplish?_* is the most important question to answer.
+**_What Exactly Do I Want To Accomplish?_** is the most important question to answer.
 
 # Why should you use an <h1> element over a <span> element to display a top level heading?
 The *_h1_* element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page.
@@ -108,7 +108,7 @@ Some of the benefits from writing semantic markup are as follows:
 
 # Describe 2 things that require JavaScript in the Browser?
 
-*_JavaScript_* is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc.
+**_JavaScript_** is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc.
 
 Some examples would be:
 - The Twitter API allows you to do things like displaying your latest tweets on your website.
@@ -118,7 +118,7 @@ Some examples would be:
 
 # How can you add JavaScript to an HTML document?
 
-*_JavaScript_* is applied to your HTML page in a similar manner to CSS. Whereas CSS uses <link> elements to apply external stylesheets and <style> elements to apply internal stylesheets to HTML, JavaScript only needs one friend in the world of HTML — the <script> element.
+**_JavaScript_** is applied to your HTML page in a similar manner to CSS. Whereas CSS uses <link> elements to apply external stylesheets and <style> elements to apply internal stylesheets to HTML, JavaScript only needs one friend in the world of HTML — the <script> element.
 
 Some different variations for adding *_JavaScript_* are:
 - Internal JavaScript
