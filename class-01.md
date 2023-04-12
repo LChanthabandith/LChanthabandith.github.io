@@ -1,6 +1,6 @@
 ## Compose a short poem describing how HTTP sends data between computers.
 **HTTP, _Hypertext Transfer Protocol_**, is an application protocol that defines a language for clients and servers to speak to each other. The browser sends an HTTP request message to the server, asking it to send a copy of the website to the client. This message, and all other data sent between the client and the server, is sent across your internet connection using _TCP/ IP_. [How The Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-> #### Poem
+#### Poem
 > Billy **_(Client)_** goes to a restaurant **_(Server)_** and makes a request to order food. The restaurant collects Billy's order, processes the order, then returns to Billy with his exact order.  
 
 ## Describe how HTML, CSS, and JS files are “parsed” in the browser.
