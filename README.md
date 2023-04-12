@@ -1,5 +1,9 @@
 # LChanthabandith.github.io
 
-[READING NOTES](LChanthabandith.github.io/reading-notes)
+# Reading Notes
 
-[CLASS 01](LChanthabandith.github.io/class-01)
+## Code 201 - Foundations of Software Development
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
