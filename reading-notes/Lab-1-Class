@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<div style="border-left: 5px dotted #ff0000; border-top: 5px dotted #ff0000; border-right: 5px dotted #ff0000; border-bottom: 5px dotted #ff0000; padding: 5px; text-align: center;"
+    <blockquote>
+        <h1>Class Lab 1</h1>
+    </blockquote>
+</div>
+    
+<div style="border: 5px solid #e68c8c; text-align: center; margin: 5px; padding: 10px;" 
+    <blockquote>
+        <p style="color: red;">Hey there! What's your name?</p>
+    </blockquote>
+</div>
+    
+<div style="text-align: center;"
+    <blockquote>
+        <p style="color: black;">Hello, <span id="name"></span>!</p>
+    </blockquote>
+</div>
+
+
+<div style="border: 5px solid #e68c8c; text-align: center; margin: 5px; padding: 10px;"
+    <blockquote>
+        <p style="color: red;">What's your favorite vacation destination?</p>    
+    </blockquote>
+</div>
+
+    <div style="text-align: center;"
+    <blockquote>
+        <p style="color: black;">Your favorite spot is <span id="vacation"></span>? Sounds fun! </p></div>
+    </blockquote>
+
+    <div style="border: 5px solid #e68c8c; text-align: center; margin: 5px; padding: 10px;"
+    <blockquote>
+        <p style="color: red;">What is your favorite restaurant from there?</p></div>
+    </blockquote>
+    
+    <div style="text-align: center;"
+    </blockquote>
+        <p style="color: black;">I'll have to check out <span id="restaurant"></span>!</div>
+    </blockquote>
+    
+    <script>
+        let name = prompt("What is your name?");
+        document.getElementById("name").innerHTML = name;
+        let vacation = prompt("What's your favorite vacation destination?");
+        document.getElementById("vacation").innerHTML = vacation;
+        let restaurant = prompt("What is your favorite restaurant from there?");
+        document.getElementById("restaurant").innerHTML = restaurant;
+
+     
+    </script>
+</body>
+</html>
