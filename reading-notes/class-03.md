@@ -19,7 +19,8 @@
 ## Is the `people` array a valid JavaScript array?  If so, how can I access the values stored? If not, why?
 
     ```javascript
-    const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+    const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 
+    'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
     ```
 
 ## List **five** shorthand operators for assignment in javascript and describe what they do.
