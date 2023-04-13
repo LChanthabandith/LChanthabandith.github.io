@@ -18,7 +18,8 @@ There are six levels of headings, as followed:
 
 - h6
 
-## What are some uses for the <sup> and <sub> elements?
+## What are some uses for the _<sup>_ and _<sub>_ elements?
+
 
 ## When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
   
