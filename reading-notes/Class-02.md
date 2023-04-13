@@ -18,14 +18,14 @@ There are six levels of headings, as followed:
 
 - h6
 
-## What are some uses for the '<sup>' and '<sub>' elements?
+## What are some uses for the `<sup>` and `<sub>` elements?
 You will occasionally need to use superscript and subscript when marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning.
 
 [Superscript and subscript](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 
 
-## When using the '<abbr>' element, what attribute must be added to provide the full expansion of the term?
-'<abbr>' is used to wrap around an abbreviation or acronym. When including either, provide a full expansion of the term in _plain text on first use_, along with the '<abbr>' to mark up the abbreviation.
+## When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
+`<abbr>` is used to wrap around an abbreviation or acronym. When including either, provide a full expansion of the term in _plain text on first use_, along with the `<abbr>` to mark up the abbreviation.
 
 [Abbreviations](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
 
@@ -102,9 +102,9 @@ Comparison operators are used to test the conditions inside our conditional stat
 
 [A note on comparison operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
-## What is the difference between the logical operator '&&' and '||'?
-> - '&&', AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true.
-> - '||', OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
+## What is the difference between the logical operator `&&` and `||`?
+> - `&&`, AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true.
+> - `||`, OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
 
 [Logical operators: AND, OR and NOT](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
