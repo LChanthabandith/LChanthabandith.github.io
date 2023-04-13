@@ -97,7 +97,7 @@ Comparison operators are used to test the conditions inside our conditional stat
 
 ## What is the difference between the logical operator && and ||?
 > - && — AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true.
-> - || — OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
+> - |(x2) - OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
 
 [Logical operators: AND, OR and NOT](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
