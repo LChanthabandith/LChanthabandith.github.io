@@ -48,10 +48,10 @@ It is the opposite of a best practice. First, it is the least efficient implemen
   >**_h2_** is representing the selector
   
 > ### Which components are the CSS declarations?
-	> The CSS declaration is **_color: black; padding: 5px;_**
+	- The CSS declaration is **_color: black; padding: 5px;_**
 
 > ### Which components are considered properties?
-	> The properties are **_color_** and **_padding_**
+	- The properties are **_color_** and **_padding_**
   
 ## What data type is a sequence of text enclosed in single quote marks?
 A **_string_** is a sequence of text known as a string. To signify that the value is a string, enclose it in single or double quote marks.
