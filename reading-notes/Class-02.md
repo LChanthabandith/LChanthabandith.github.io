@@ -52,6 +52,13 @@ It is the opposite of a best practice. First, it is the least efficient implemen
 
 > ### Which components are considered properties?
   >The properties are **_color_** and **_padding_**
+
+```css
+   h2 {
+     color: black;
+     padding: 5px;
+   }
+```
   
 ## What data type is a sequence of text enclosed in single quote marks?
 A **_string_** is a sequence of text known as a string. To signify that the value is a string, enclose it in single or double quote marks.
