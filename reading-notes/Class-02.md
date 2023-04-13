@@ -1,6 +1,21 @@
 ## Why is it important to use semantic elements in our HTML?
+One of HTML's main jobs is to give text meaning (also known as **_semantics_**), so that the browser knows how to display it correctly. This article looks at how to use HTML to break up a block of text into a structure of headings and paragraphs, add emphasis/importance to words, create lists, and more.
+[HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
 ## How many levels of headings are there in HTML?
+There are six levels of headings, as followed:
+
+- h1
+
+- h2
+
+- h3
+
+- h4
+
+- h5
+
+- h6
 
 ## What are some uses for the <sup> and <sub> elements?
 
