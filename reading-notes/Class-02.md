@@ -101,3 +101,10 @@ Comparison operators are used to test the conditions inside our conditional stat
 
 [Logical operators: AND, OR and NOT](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
+## Things I want to know more about
+
+- How to implement the different types of methods of CSS into HTML and use it "hands-on."
+
+- Learning the structure of CSS and using it in code in addition to my HTML files.
+
+- Utilize a _function_ to create different answer outcomes for web application.
