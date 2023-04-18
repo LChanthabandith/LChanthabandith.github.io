@@ -10,7 +10,7 @@ The bullet style is not defined in the HTML description of the page, but in its 
 [Usage Notes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
 ## When should you use an `ordered list` vs an `unorder list` in your HTML document?
-The `<ol>` and `<ul>` elements both represent a list of items. They differ in that, with the '<ol>' element, the order is meaningful. To determine which one to use, try changing the order of the list items; if the meaning is changed, the '<ol>' element should be used, otherwise you can use '<ul>'.
+The `<ol>` and `<ul>` elements both represent a list of items. They differ in that, with the `<ol>` element, the order is meaningful. To determine which one to use, try changing the order of the list items; if the meaning is changed, the `<ol>` element should be used, otherwise you can use `<ul>`.
 
 [Usage Notes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
