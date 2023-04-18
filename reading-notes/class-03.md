@@ -1,5 +1,5 @@
 ## When should you use an `unordered list` in your HTML document?
-The '<ul>' element is for grouping a collection of items that do not have a numerical ordering, and their order in the list is meaningless.
+The `<ul>` element is for grouping a collection of items that do not have a numerical ordering, and their order in the list is meaningless.
 
 [Usage Notes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
