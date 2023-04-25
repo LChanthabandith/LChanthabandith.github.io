@@ -14,14 +14,14 @@ Using the `alt` attribute is a good practice for web developers to ensure _acces
 
 ## Provide an example of when the `figure` element would be useful in an HTML document.
 
-> Let's say you have an article about a new product launch and you want to include an image of the product along with a caption describing its features. You could use the figure element to group the image and caption together, like this:
+Let's say you have an article about a new product launch and you want to include an image of the product along with a caption describing its features. You could use the figure element to group the image and caption together, like this:
 ``` 
   <figure>
     <img src="product-launch.jpg" alt="Product Launch">
     <figcaption>Our new product features a sleek design, advanced technology, and intuitive user interface.</figcaption>
   </figure>
   ```
-> These are created for exactly this purpose: to provide a semantic container for figures, and to clearly link the figure to the caption.
+These are created for exactly this purpose: to provide a semantic container for figures, and to clearly link the figure to the caption.
 
 [Annotating images with figures and figure captions](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
