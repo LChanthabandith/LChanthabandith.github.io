@@ -23,7 +23,7 @@ Using the `alt` attribute is a good practice for web developers to ensure _acces
   ```
 > These are created for exactly this purpose: to provide a semantic container for figures, and to clearly link the figure to the caption.
 
-[Annotating images with figures and figure captions] (https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+[Annotating images with figures and figure captions](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
 ## Describe the difference between a `gif` image and an `svg` image, pretend you are explaining to an elder in your community.
 
