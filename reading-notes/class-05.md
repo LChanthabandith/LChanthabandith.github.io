@@ -100,3 +100,11 @@ p {
   ```
   
 [Letter and word spacing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+
+## Things I want to know more about
+
+- Creating great practice for accessibility of images in HTML
+
+- Using font-size, font-weight, and font-style in my HTML pages more efficiently.
+
+- Understanding foreground and background color with hands-on experience.
