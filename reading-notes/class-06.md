@@ -1,7 +1,5 @@
 # Readings: Problem Domain, Objects, and the DOM
 
-[JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
-
 ## How would you describe an object to a non-technical friend you grew up with?
 
 A JavaScript **object** is like a container that can hold different types of information, labeled with names, or keys, for easy identification and retrieval.
@@ -63,3 +61,7 @@ The **Document Object Model** _(DOM)_ is a programming interface for web documen
 The **DOM** is not a programming language, but without it, the **JavaScript** language wouldn't have any model or notion of web pages, HTML documents, SVG documents, and their component parts. The document as a whole, the head, tables within the document, table headers, text within the table cells, and all other elements in a document are parts of the document object model for that document. They can all be accessed and manipulated using the **DOM** and a scripting language like **JavaScript**.
 
 [Introduction To The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+## Things I want to know more about
+
+- Creating object literals.
