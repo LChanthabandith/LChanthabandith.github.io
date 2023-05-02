@@ -47,3 +47,11 @@ When you only have to create a single object literal, it's not so useful. But if
    - *NOTE: This is a very common front end developer interview question*
 
 Prototypes and inheritance are like using existing templates or structures as a starting point to create new objects or structures. Prototypes are like existing recipes that can be modified to create new dishes, while inheritance is adding on top of existing templates to create new, more specialized templates, like creating a Thai restaurant based on an existing Thai restaurant.
+
+## Things I want to know more about
+
+- Using constructors in JavaScript.
+
+- Learning more semantic HTML elements.
+
+- More information on Prototypes and Inheritance.
