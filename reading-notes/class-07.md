@@ -43,9 +43,7 @@ When you only have to create a single object literal, it's not so useful. But if
 
 [Introducing Constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
 
-[Object Prototypes Using A Constructor](https://ui.dev/beginners-guide-to-javascript-prototype){:target="_blank"}
-
-1. Explain prototypes and inheritance via an analogy from your previous work experience.
+## Explain prototypes and inheritance via an analogy from your previous work experience.
    - *NOTE: This is a very common front end developer interview question*
 
 Prototypes and inheritance are like using existing templates or structures as a starting point to create new objects or structures. Prototypes are like existing recipes that can be modified to create new dishes, while inheritance is adding on top of existing templates to create new, more specialized templates, like creating a Thai restaurant based on an existing Thai restaurant.
