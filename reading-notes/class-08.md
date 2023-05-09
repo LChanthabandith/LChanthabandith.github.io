@@ -34,3 +34,9 @@ You should be cautious when using any properties that reorder the visual display
 ## How does this topic connect with your long term goals?
 
 Understanding and mastering Flexbox would be very beneficial in my long term goals as a programmer because it will allow me to improve my workflow, code more efficiently, and help create more accessible websites.
+
+## Things I want to know more about
+
+- Using the flex model as a reference point in my code.
+
+- Understanding `row` and `column` more clearly.
