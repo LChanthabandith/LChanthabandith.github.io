@@ -55,3 +55,7 @@ The target property of the event object is always a reference to the element the
 - An alternative form of event propagation is event capture. This is like event bubbling but the order is reversed: so instead of the event firing first on the innermost element targeted, and then on successively less nested elements, the event fires first on the least nested element, and then on successively more nested elements, until the target is reached.
 
 [Introduction To Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+
+## Things I want to know more about
+
+- Event bubbling and capturing.
