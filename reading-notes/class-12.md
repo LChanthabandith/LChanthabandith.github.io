@@ -26,25 +26,26 @@ Chart.js provides a set of frequently used chart types, plugins, and customizati
 
 ## List 3 different Chart types you can create using Chart.js.
 
-[Easily Create Stunning Animated Charts with Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/){:target="_blank"}
+- Scatter Plot
 
-1. What are some advantages to displaying data via a chart over a table?
-1. How could Chart.js aid your previously created applications visually?
+- Line Chart
 
-<!-- NOTE: "Videos" may not be relevant for every class. Omit this section or any of the sections below if you don't have anything for your students here -->
-<!-- ## Videos -->
+- Bar Chart
 
-<!-- [Name of Video](https://linktovideohere){:target="_blank"} -->
+[Chart.js](https://www.w3schools.com/ai/ai_chartjs.asp)
 
-<!-- Mix it up! Create the questions with pointed answers, fill in the blank, or opinion/open ended -->
-<!-- 1. Question 1
-1. Question 2
-1. Question 3 -->
+## What are some advantages to displaying data via a chart over a table?
 
-## Bookmark and Review
+Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly.
 
-[Drawing Shapes With Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes){:target="_blank"}
+[Easily Create Stunning Animated Charts with Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
-[Applying Style and Colors - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors){:target="_blank"}
+## How could Chart.js aid your previously created applications visually?
 
-[Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text){:target="_blank"}
+It will make the data or the results easier to read in charts or graphs, rather than in lists.
+
+## Things I want to know more about
+
+- Working with Chart.js in code.
+
+- Using the `<canvas>` element.
