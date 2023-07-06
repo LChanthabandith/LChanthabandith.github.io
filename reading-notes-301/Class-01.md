@@ -1,7 +1,5 @@
 ## Readings: Introduction to React and Components
 
-[Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
-
 ## What is a “component”?
 
 A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
