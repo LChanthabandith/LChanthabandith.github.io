@@ -1,7 +1,5 @@
 # Readings: Passing Functions as Props
 
-Reading
-
 ## What does .map() return?
 We use the `map()` function to take an array of numbers and double their values. We assign the new array returned by `map()` to the variable doubled and log it.
 
